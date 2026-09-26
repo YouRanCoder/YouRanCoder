@@ -9,7 +9,9 @@
 
 ###
 
-<img data-importer="image" align="left" height="150" src="https://github.com/YouRancoder.png"  />
+<p align="center">
+  <img data-importer="image" height="150" src="./avatar.gif"  />
+</p>
 
 ###
 
